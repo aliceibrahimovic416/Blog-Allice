@@ -1,0 +1,8 @@
+{
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "files.exclude": {
+        "**/node_modules": true
+    }
+}
