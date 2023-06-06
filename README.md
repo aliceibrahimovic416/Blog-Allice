@@ -1,3 +1,4 @@
+![Mobile and laptop blog](/public/images/AppleBrand.jpg)
 ## Features
 
 - Easy styling[Tailwind CSS](https://tailwindcss.com/).
